@@ -1,0 +1,19 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "第一次练习\r '''js\r   node app\r  '''",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengtonga/my-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengtonga/my-blog/issues"
+  },
+  "homepage": "https://github.com/mengtonga/my-blog#readme"
+}
